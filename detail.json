@@ -1,0 +1,77 @@
+{
+    "product":[
+        {
+            "id": 2,
+            "name": "An ice sculptured",
+            "price": 12.50,
+            "tags": ["cold", "ice"],
+            "dimensions": {
+                "length": 7.0,
+                "width": 12.0,
+                "height": 9.5
+            },
+            "warehouseLocation": {
+                "latitude": -78.75,
+                "longitude": 20.4
+            },
+            "description": {
+                "detail" : "This is an ice sculptured",
+                "image"  : "IceSculpture1.jpg"
+            }
+        },
+        {
+            "id": 3,
+            "name": "A blue mouse",
+            "price": 25.50,
+            "dimensions": {
+                "length": 3.1,
+                "width": 1.0,
+                "height": 1.0
+            },
+            "warehouseLocation": {
+                "latitude": 54.4,
+                "longitude": -32.7
+            },
+            "description": {
+                "detail" : "This is a blue mouse",
+                "image"  : "BlueMouse.jpg"
+            }
+        },
+        {
+            "id": 451,
+            "name": "A blue mouse",
+            "price": 25.50,
+            "dimensions": {
+                "length": 3.1,
+                "width": 1.0,
+                "height": 1.0
+            },
+            "warehouseLocation": {
+                "latitude": 54.4,
+                "longitude": -32.7
+            },
+            "description": {
+                "detail" : "This is a second blue mouse",
+                "image"  : "BlueMouse2.jpg"
+            }
+        },
+        {
+            "id": 41,
+            "name": "ASUS K53S",
+            "price": 530,
+            "dimensions": {
+                "length":45.3,
+                "width": 35,
+                "height": 4
+            },
+            "warehouseLocation": {
+                "latitude": 54.4,
+                "longitude": -32.7
+            },
+            "description": {
+                "detail" : "Asus k53s is, Intel cor I7-243432,2.2GHz",
+                "image"  : "Asus.jpg"
+            }
+        } 
+    ]
+}
