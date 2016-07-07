@@ -7,8 +7,10 @@
         <!--<meta name="viewport" content="width=device-width, initial-scale=1.0">-->
         <!--Link to new create css file-->
         <link href="css1/style.css" rel="stylesheet">
+        <link href="css1/dataTable.css" rel="stylesheet">
         <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
         <link href="bootstrap/css/mynewstyling.css" rel="stylesheet">
+        <link rel="stylesheet" type="text/css" href="//cdn.datatables.net/1.10.12/css/jquery.dataTables.css">
         <link rel="shortcut icon" href="images/iconKS.png"><!--Add icon to your webpage.-->
         <title> The Property For Sale</title>
     </head>
@@ -42,7 +44,7 @@
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="glyphicon glyphicon-briefcase"></i> FOR SALE<b class="caret"></b></a>
                             <ul class="dropdown-menu">
                                 <li style="border-bottom:0px solid gray;"><a href="index.php?page=products"><i class="glyphicon glyphicon-briefcase"></i> PRODUCTS</a></li>
-                                <li style="border-bottom:0px solid gray;"><a href="#"><i class="glyphicon glyphicon-phone"></i> ACCESSORIES</a></li>
+                                <li style="border-bottom:0px solid gray;"><a href="index.php?page=testing"><i class="glyphicon glyphicon-phone"></i> ACCESSORIES</a></li>
                                 <li style="border-bottom:0px solid gray;"><a href="#"><i class="glyphicon glyphicon-book"></i> BOOKS</a></li>
                             </ul>
                         </li>
